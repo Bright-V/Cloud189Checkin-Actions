@@ -33,8 +33,6 @@ jobs:
         pwd_list=()
 
         IFS=" "
-   
-       wget http://cloud-drive-by-vastq.herokuapp.com/?/Music/-%CC%A1%CC%99%CC%99%CD%87%CC%BA%CC%A4%CD%93%CC%80%CD%9C-%CC%A7%CC%9B%CC%97%CC%95-%CD%8F%CC%AA%CC%A5%CC%A9%20-%20l%20o%20k%20a%20%21.mp3
 
         for u in ${user[*]}
         do
